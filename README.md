@@ -58,9 +58,3 @@ src/
 ## Execução
 
 O repositório atual é um modelo de domínio e não possui uma classe `Main` para iniciar uma demonstração. Para executá-lo, o próximo passo recomendado é adicionar uma classe principal que instancie os objetos e evidencie os comportamentos de cada tipo.
-
-## Próximos passos
-
-- Adicionar `Main.java` com exemplos de polimorfismo.
-- Padronizar os nomes das classes com inicial maiúscula, seguindo a convenção Java.
-- Criar testes para os comportamentos do domínio.
